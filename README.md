@@ -15,7 +15,6 @@
 - [Índice](#índice)
 - [Descripción general](#descripción-general)
 - [Objetivos del proyecto](#objetivos-del-proyecto)
-- [Dependencias](#dependencias)
 - [Pipeline del proyecto](#pipeline-del-proyecto)
   - [6.1 Limpieza del texto](#61-limpieza-del-texto)
   - [6.2 Procesamiento lingüístico](#62-procesamiento-lingüístico)
