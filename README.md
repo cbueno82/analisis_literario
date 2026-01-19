@@ -53,12 +53,6 @@ Aunque la primera autora analizada es Sylvia Townsend Warner (*Lolly Willowes*, 
 
 ---
 
-# Dependencias
-
-Consulta requirements.txt para versiones concretas.
-
----
-
 # Pipeline del proyecto
 
 ## 6.1 Limpieza del texto
